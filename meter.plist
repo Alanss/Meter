@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://132.122.46.191:8081/assets/mobile/clientDownload.action?version.id=5b0657ea6592a890c11a25de</string>
+					<string>http://192.168.2.232:8080/rece/mobile/downloadVersion.action?json={id:iosOwner}</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -23,7 +23,7 @@
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://132.122.46.191:8081/assets/mobile/clientDownload.action?version.id=5b3dde58b760366331993094</string>
+					<string>http://192.168.2.232:8080/rece/mobile/downloadVersion.action?json={id:iosOwner}</string>
 				</dict>
 			</array>
 			<key>metadata</key>
