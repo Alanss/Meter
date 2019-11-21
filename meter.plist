@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>dianziqianzhng</string>
+				<string>com.owner</string>
 				<key>bundle-version</key>
 				<string>1.1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>dianziqianzhng</string>
+				<string>智慧抄表</string>
 			</dict>
 		</dict>
 	</array>
