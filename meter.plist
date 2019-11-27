@@ -19,12 +19,6 @@
 					<key>url</key>
 					<string>https://raw.githubusercontent.com/Alanss/Meter/master/ic_launcher.png</string>
 				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>url</key>
-					<string>http://132.121.111.32:8081/rece/mobile/downloadVersion.action?json={id:iosOwner}</string>
-				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
