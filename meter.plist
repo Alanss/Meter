@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.2.182:8089/rece/mobile/downloadVersion.action?json=owner</string>
+					<string>http:// 61.144.150.132:8081/rece/mobile/downloadVersion.action?json=owner</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,7 +29,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>智慧抄表(业主)</string>
+				<string>智慧能耗云</string>
 			</dict>
 		</dict>
 	</array>
